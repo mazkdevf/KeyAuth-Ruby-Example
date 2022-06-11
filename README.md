@@ -1,2 +1,3 @@
 # KeyAuth-Ruby-Example
-..
+
+HWID GET DOESN'T WORK AT THE MOMENT
